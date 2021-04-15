@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**PVDoanh96/PVDoanh96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Doanh
+### Thank you for visiting me!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Machine Learning - Deep Learning - Computer vision
+- 👯 You can see me on [LinkedIn](https://www.linkedin.com/in/pvdoanh/)
+- 💬 Summary:
+  -	Research experience and knowledge of Machine learning and Deep learning.
+  -	Experience in Robotics and Computer Vision using ROS (Robot Operating System).
+  -	Knowledge of Algorithms and data structures.
+  -	Good knowledge of Geometry and Linear algebra.
+  -	Have an academic background of Embedded system and IoT, Microprocessor.
+  -	Great passion for computer science, progressive spirit, and self-learning ability
+### Have a good day :smiley:
