@@ -10,5 +10,5 @@
   -	Knowledge of Algorithms and data structures.
   -	Good knowledge of Geometry and Linear algebra.
   -	Have an academic background of Embedded system and IoT, Microprocessor.
-  -	Great passion for computer science, progressive spirit, and self-learning ability
+  -	Great passion for computer science, progressive spirit, and self-learning ability.
 ### Have a good day :smiley:
